@@ -29,10 +29,10 @@ https://github.com/RavenSystem/esp-homekit-devices/wiki/Installation
 How to flash
 https://getsmarty.tech/posts/easiest-way-to-flash-your-sonoff-shelly-wemos-or-any-esp8266
 
-HAA configurator
+HAA JSON configurator
 https://glumb.github.io/haa-configurator/
 
-#Sunoff BASIC  with ESP8285 -  Btn on GPIO0, relay on GPIO 12  DHT on GPIO  14
+#JSON for Sunoff BASIC  with ESP8285 -  Btn on GPIO0, relay on GPIO 12  DHT on GPIO  14
 
 {
   "c": {
