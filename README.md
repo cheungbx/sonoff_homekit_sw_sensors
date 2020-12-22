@@ -28,3 +28,7 @@ https://github.com/RavenSystem/esp-homekit-devices/wiki/Installation
 
 How to flash
 https://getsmarty.tech/posts/easiest-way-to-flash-your-sonoff-shelly-wemos-or-any-esp8266
+
+HAA configurator
+https://glumb.github.io/haa-configurator/
+
