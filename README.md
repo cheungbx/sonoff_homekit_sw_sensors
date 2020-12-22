@@ -79,7 +79,8 @@ https://glumb.github.io/haa-configurator/
 }
 
 
-#JSON for DIY ESP8266 with Btn on 2, relay on 0 DHT22 on 3 
+#JSON for DIY ESP8266 with Btn on GPIO 2, relay on GPIO 0 DHT22 on GPIO 3 
+
 {
   "c": {
     "b": [
