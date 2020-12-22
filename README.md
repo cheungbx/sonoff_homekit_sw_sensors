@@ -32,3 +32,48 @@ https://getsmarty.tech/posts/easiest-way-to-flash-your-sonoff-shelly-wemos-or-an
 HAA configurator
 https://glumb.github.io/haa-configurator/
 
+#Sunoff BASIC  with ESP8285 -  Btn on GPIO0, relay on GPIO 12  DHT on GPIO  14
+
+{
+  "c": {
+    "l": 13,
+    "b": [
+      {
+        "g": 0,
+        "t": 5
+      }
+    ]
+  },
+  "a": [
+    {
+      "0": {
+        "r": [
+          {
+            "g": 12
+          }
+        ]
+      },
+      "1": {
+        "r": [
+          {
+            "g": 12,
+            "v": 1
+          }
+        ]
+      },
+      "b": [
+        {
+          "g": 0
+        }
+      ],
+      "s": 0
+    },
+    {
+      "t": 24,
+      "b": [],
+      "n": 2,
+      "g": 14,
+      "j": 30
+    }
+  ]
+}
