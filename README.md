@@ -9,9 +9,9 @@ Part 2  https://youtu.be/Ah6cZDGLizI
 
 
 
-[![Youtube%20Video](youtube1.jpg)]( https://youtu.be/Jow2XkaF1l0)
+[![Youtube%20Video](youtube1.png)]( https://youtu.be/Jow2XkaF1l0)
 
-[![Youtube%20Video](youtube2.jpg)](https://youtu.be/Ah6cZDGLizI)
+[![Youtube%20Video](youtube2.png)](https://youtu.be/Ah6cZDGLizI)
 
 
 QR code for homekit set up
