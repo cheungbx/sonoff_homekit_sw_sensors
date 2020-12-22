@@ -4,13 +4,11 @@ This is a project to Part 1 - Turn a Sonoff basic switch to a homekit light swit
 Refer to this youtube video that I show how to modify the circuit of the Sonoff basic switch to add the pin sockets for firmware upload, and add the DHT22 temperature and  humidity sensors.
 
 Instruction Videos
+
 Part 1 https://youtu.be/Jow2XkaF1l0
-Part 2  https://youtu.be/Ah6cZDGLizI
-
-
-
 [![Youtube%20Video](youtube1.png)]( https://youtu.be/Jow2XkaF1l0)
 
+Part 2  https://youtu.be/Ah6cZDGLizI
 [![Youtube%20Video](youtube2.png)](https://youtu.be/Ah6cZDGLizI)
 
 
