@@ -126,7 +126,8 @@ https://glumb.github.io/haa-configurator/
   ]
 }
 
-JSON for Sonoff Dual - LED 13,  setup btn GPIO 10, Btn 0 on GPIO 0 controls relay 0 on GPIO 12 , , Btn 1 on GPIO 9 controls relay 1 on GPIO 5 ,   Motion Sensor on GPIO 4  
+JSON for Sonoff Dual R2 - LED 13,  setup btn GPIO 10, Btn 0 on GPIO 0 controls relay 0 on GPIO 12 , , Btn 1 on GPIO 9 controls relay 1 on GPIO 5 ,   Motion Sensor on GPIO 4  
+
 {
   "c": {
     "l": 13,
